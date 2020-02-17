@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Guanqun Mu
 logo: 16AFF522-EC66-4164-8265-994BB2DA2E8A.JPG
 description: Welcome to Guanqun Mu's homepage
-
+show_downloads: true
