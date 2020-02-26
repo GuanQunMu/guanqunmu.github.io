@@ -3,7 +3,7 @@
     <td width="30%">
       <img src="https://github.com/GuanQunMu/guanqunmu.github.com/blob/master/DSC_251.jpg" width="300"/>
     </td>
-    <td width="25%">
+    <td width="70%">
       
       <p><b>My name is Guanqun Mu (穆冠群). I am studying for a B.Sc. degree at Physic Department, Wuhan University.</b></p>
       <p><b>I used to be a researcher at CQT(Center for Quantum Technology), WIPM(Wuhan Institute of Physics and Mathematics,CAS) and USTC(University of Science and Technology of China)</b></p>
