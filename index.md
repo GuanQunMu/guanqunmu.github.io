@@ -21,10 +21,10 @@ _March, 2019 -- June, 2019 & September, 2019-- Now_
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <img src="/How_does _CS_work.png" width="100%">
+    <td width="60%">
+      <img src="/Dashboaed.png" width="100%">
     </td>
-    <td width="50%">
+    <td width="40%">
       <img src="/How_does _CS_work.png" width="100%">
       <p>My name is Guanqun Mu (穆冠群). </p>
     </td>
