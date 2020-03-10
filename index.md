@@ -39,7 +39,7 @@ March, 2019 -- Now
 
 The left figure shows the structure of control system for ion traps based Artiq. The right figure shows The dashboard and customized GUI. 
 
-For more detalls, [click here to see the github page of this project](https://github.com/GuanQunMu/IonTrap-WIPM)
+For more detalls, click here to see the github page of our contorl system :[**https://github.com/GuanQunMu/IonTrap-WIPM**](https://github.com/GuanQunMu/IonTrap-WIPM)
 
 ___
 
@@ -65,16 +65,16 @@ This figure shows What happens in FPGA: From the binary bit string transmitted b
 
 ___
 
- 
+
 ### **Simulation of Surface Code and Toric Code**  
 >Yongjian Han's Theory Group, University of Science and Technology of China (USTC)  
 July, 2018 -- January, 2019
 
-Surface code and toric code are topological codes, which were first proposed for quantum error correction. 
+Surface code and toric code are one of the most popular quantum error correction codes. (Widely used in superconducting quantum computing).
 
-I designed a simulation program by javascript to simulate the operation process of surface code and toric code: after qubits were operated by logic gates (X or Z gates), by using check opreators to find error points, using the Edmond-blossom algorithm to find the shortest path to link all error points and repairing them, The fidelity of logic gates will increase as the size of the qubits increases when its logical error rate is below the threshold.
+I designed a program in javascript to simulate the operation of surface code and toric code, explored their thresholds under specific conditions, and verified their properties: The fidelity of logic gates will increase as the size of the qubits increases when its logical error rate is below the threshold.
 
-In addition, I explored the thresholds of surface code and toric code under special conditions.
+For more detalls, You can go to my Github page to use my surface code program: [**https://github.com/GuanQunMu/Surface-Code**](https://github.com/GuanQunMu/Surface-Code)
 
 
 ## Skills
