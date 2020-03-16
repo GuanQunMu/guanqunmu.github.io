@@ -15,13 +15,13 @@
 ## **Research Experience**
 
 
-### **Designing Control System for Ion Traps & Realizing Zeeman Scan and Rabi Scan of a Single Qubit**
+### **Designing Control System for Zeeman Scan and Rabi Scan of qubits in Ion Traps**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 March, 2019 -- Now
 
   Artiq is adopted by ion trap groups from NIST and Oxford University as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. Our group also adopted it for the operation of quantum information.
   
-  As the main developer of Artiq in our group, I designed functions that can implement zeeman scan and rabi scan for a single qubit and paluse shaping for DDS to Reduce AC-Stark effect. In addition, Based on scalability of Python, I made a custom GUI to facilitate the experimental process.
+  As the main developer of Artiq in our group, I designed functions that can implement zeeman scan and rabi scan for qubits and paluse shaping for DDS to Reduce AC-Stark effect. In addition, Based on scalability of Python, I made a custom GUI to facilitate the experimental process.
 
 <table border="0">
   <tr>
@@ -87,17 +87,26 @@ I designed a program in javascript to simulate the operation of the surface code
   </tr>
 </table>
 
-(a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 10,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.1050.
+(a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 100,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.1050.
 
 For more detalls, You can go to my Github page to use my surface code program: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
 
+
+## GPA
+**Overall GPA**: 85 /100  
+**Major GPA**: 88 /100  
+**Core Courses**:  
+Quantum Mechanics (90) / Advanced Quantum Mechanics (88) / Electrodynamics (95) / Theoretical Mechanics (93) / Thermodynamics and Statistical Mechanics (85) / Computational Physics (91) / Mechanics (96) / Atomic and Nuclear Physics (98) / Optics (89) / Electricity and Magnetism (90)
 
 ## Skills
 20 k+ lines Python & Javascript Codes  
 1 year FPGA Programing Experience (Verilog)  
 1 year Matlab & Mathematica Experience  
-2 year Physical Simulation Experience  
+2 year Simulation of Physical models Experience  
+
+
+
 
 ## Contact
 
-If you have any question, be free to contact me: **guanqun_mu@whu.edu.cn**
+E-mail: **guanqun_mu@whu.edu.cn**
