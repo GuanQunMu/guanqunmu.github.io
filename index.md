@@ -45,7 +45,7 @@ ___
  
  
  
-### **Time Tagging of Photons from Ion Traps**  
+### **Time Tagging of Photons emitted from Ion Traps**  
 >Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
  June, 2019 -- September, 2019
 
