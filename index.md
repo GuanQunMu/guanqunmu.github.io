@@ -54,17 +54,16 @@ With FPGA Programing (Verilog) and Python, I designed a system that can tag the 
 
 <table border="0">
   <tr>
-    <td width="30%">
+    <td width="40%">
       <img src="/coherent.gif" width="100%">(a)
     </td>
-    <td width="70%">
-      <img src="/TimeTagging.png" width="75%">
+    <td width="60%">
+      <img src="/TimeTagging.png" width="100%">(b)
       
     </td>
   </tr>
 </table>
-
-This figure shows how does the system work in FPGA: From the binary bit string transmitted by the JTAG protocol on the far left, the data passes through the translator to determine when to end the experiment. In the meanwhile, the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
+(a) Figure from Wikipedia. Time evolution of the probability distribution with quantum phase of a coherent state with α=3. (b) The FPGA program: From the binary bit string transmitted by the JTAG protocol on the far left, the data passes through the translator to determine when to end the experiment. In the meanwhile, the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
 
 ___
 
