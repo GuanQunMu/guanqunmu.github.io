@@ -16,13 +16,13 @@
 ## **Research Experience**
 
 
-### **Designing the Control System for Zeeman Scan and Rabi Scan of qubits in Ion Traps**
+### **Designing the Control System for Rabi Scan and Zeeman Scan of qubits in Ion Traps**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 March, 2019 -- Now
 
-  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between levels. Ones can control the quantum gate acting on a qubit by setting the rabi oscillation time, which is called the rabi scan.
+  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between levels. Ones can control the quantum gate acting on a qubit by setting the rabi oscillation time, which is called the rabi scan. To achieve it, an control system is required. Artiq is adopted by ion trap groups from NIST and Oxford University as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. 
   
-  This requires an control system to achieve it. Artiq is adopted by ion trap groups from NIST and Oxford University as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. In our group, as the main developer of the control system based on Artiq, I designed functions that can implement zeeman scan and rabi scan for qubits and paluse shaping for DDS to Reduce AC-Stark effect. In addition, to facilitate the experimental process, I made a custom GUI by Python.
+  In our group, as the main developer of the control system based on Artiq, I designed functions that can implement rabi scan and zeeman scan for qubits and paluse shaping for DDS to Reduce AC-Stark effect. In addition, to facilitate the experimental process, I made a custom GUI by Python.
 
 <table border="0">
   <tr>
@@ -37,7 +37,7 @@ March, 2019 -- Now
   </tr>
 </table>
 
-(a) Interacting with the 729 nm wave length laser, the Ca + ion oscillate between the ground state and the D5/2 state.(b) Structure of our control system for ion traps based on artiq. (c) The dashboard and customized GUI shown on the PC. 
+(a) Interacting with the 729 nm wave length laser, the Ca + ion oscillate between the ground state and the D5/2 state. (b) Structure of our control system for ion traps based on artiq. (c) The dashboard and customized GUI shown on the PC. 
 
 Click here to see the github page of our contorl system and use it: [https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
 
