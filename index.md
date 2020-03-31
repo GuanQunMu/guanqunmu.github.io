@@ -50,10 +50,9 @@ ___
 >Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
  June, 2019 -- September, 2019
  
-As one of the solutions for particles constrained in a secondary potential well, the coherent state, witch approximates the classical trajectory, can be made and detected in an ion trap. To detect the coherent state, ones should apply a laser at a specific position, tag the time of the photon emitted by the excited ion when the wave packet moves to the same position, and obsearve the gap period between it and the time when the state is created.
+As one of the solutions for particles constrained in a secondary potential well, the coherent state, witch approximates the classical trajectory, can be made and detected in an ion trap. To detect the coherent state, ones should apply a laser at a specific position, tag the time of the photon emitted by the excited ion when the wave packet moves to the same position, and obsearve the gap period between the time when the state is created and the time when a photon is detected.
 
-It required an experimental control system to achieve it. With FPGA Programing (Verilog) and Python, I designed a system that can tag the time of photons emitted from ion traps. I implemented communication between the PC and the FPGA with the JTAG protocol. and designed programs to collect, analyse and store the data of TTL signals from PMT. By comparing signals from the PMT with signals of PLLs, the system can tag the time when the photons are emitted from the ion traps.
-
+It required an experimental control system to achieve it. With FPGA Programing (Verilog) and Python, I designed a system that can tag the time of photons emitted from ion traps. It contains communication between the PC and the FPGA with the JTAG protocol, and FPGA programs which can collect, analyse and store the data of TTL signals from PMT and tag the time of those photons .
 <table border="0">
   <tr>
     <td width="35%">
