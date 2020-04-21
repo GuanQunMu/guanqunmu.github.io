@@ -37,7 +37,7 @@ March, 2019 -- Now
   </tr>
 </table>
 
-(a) Interacting with the 729 nm wave length laser, the Ca + ion oscillate between the ground state and the D5/2 state. (b) Structure of our control system for ion traps based on artiq. (c) A preview of the dashboard and customized GUI shown on the PC. 
+<small>(a) Interacting with the 729 nm wave length laser, the Ca + ion oscillate between the ground state and the D5/2 state. (b) Structure of our control system for ion traps based on artiq. (c) A preview of the dashboard and customized GUI shown on the PC. </small>
 
 Click here to see the github page of our contorl system and use it: [https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
 
