@@ -16,7 +16,7 @@
 ## **Research Experience**
 
 
-### **1. Designing the Control System for Zeeman Scan, Rabi Scan and Spin Echo opreating of Ca+ qubits in Ion Traps**
+### **1. Designing the Control System for Zeeman Scan, Rabi Scan and Spin Echo operation of Ca+ qubits in Ion Traps**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM), Chinese Academy of Sciences (CAS), P. R. China  
 March, 2019 -- September, 2020
 
@@ -69,7 +69,7 @@ It required an experimental control system to achieve it. With FPGA Programing (
 ___
 
 
-### **3. Simulation of the Surface Code and Toric Code**  
+### **3. The Simulation of the Surface Code and Toric Code**  
 >Yongjian Han's Theory Group, University of Science and Technology of China (USTC) , Hefei, Anhui ,P. R. China
 July, 2018 -- January, 2019
 
