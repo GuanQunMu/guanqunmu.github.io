@@ -16,7 +16,7 @@
 ## **Research Experience**
 
 
-### **1. Designing the Control System for Zeeman Scan, Rabi Scan and Spin Echo Operation of Ca+ Qubits in Ion Traps**
+### **1. Designing the Control System for Zeeman Scan, Rabi Scan and Spin Echo Operations of Ca+ Qubits in Ion Traps**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM), Chinese Academy of Sciences (CAS), P. R. China  
 March, 2019 -- September, 2020
 
