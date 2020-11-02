@@ -5,7 +5,7 @@
     </td>
     <td width="65%">
       
-      <p> I am Guanqun Mu ,an undergraduate student at Wuhan University, Hubei, P R China. My major subject is physics, and I graduated in summer 2020. </p>
+      <p> I am Guanqun, an undergraduate student at Wuhan University, Hubei, P R China. My major subject is physics, and I graduated in summer 2020. </p>
       <p>I am keenly interested to peruse my Masters and Doctorate in scalable quantum computing systems. My interest currently meets in <b>quantum information process in ion traps</b> and <b>simulation of physical processes in quantum computing models</b>.</p>
       <p>Therefore, in regard to get excel in the after mentioned research filed I have tried my best to participated in different ion trap groups. A short detail is as given below. </p>
     </td>
